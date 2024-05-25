@@ -1,0 +1,11 @@
+/* color palette */
+/* promotion-color: #597eff; */
+/* primary-color: #5e30e3; */
+
+header {
+    display: flex;
+}
+
+.container {
+    display: flex;
+}
